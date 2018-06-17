@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Cobalt2 Flat Theme",
+		"Color Highlighter",
+		"Emmet",
+		"Expand Selection to Quotes",
+		"GitGutter",
+		"JavaScript Enhancements",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"TerminalView",
+		"Theme - Cobalt2"
+	]
+}
